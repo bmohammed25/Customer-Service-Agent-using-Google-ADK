@@ -51,31 +51,6 @@ Extendable agent architecture
 
 Supports real-world workflows like billing queries, FAQs, or account issues
 
-🚀 Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/customer-service-agent-adk.git
-cd customer-service-agent-adk
-
-2️⃣ Install dependencies
-pip install -r requirements.txt
-
-3️⃣ Run the agent notebook
-
-Open the main notebook:
-
-Customer Service Agent.ipynb
-
-
-Execute the cells to:
-
-Train the intent model
-
-Register tools
-
-Initialize the Google ADK agent
-
-Interact with the agent directly
-
 🎥 Demo Example
 
 User: "I want to check my last bill."
