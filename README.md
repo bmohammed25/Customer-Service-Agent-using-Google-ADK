@@ -40,19 +40,27 @@ Google ADK provides a structured way to build and extend these capabilities.
 │ Customer Query │
 └───────┬────────┘
         ↓
+
+        
 ┌────────────────────┐
 │  Google ADK Agent   │
 └───────┬────────────┘
         ↓
+
+        
 ┌────────────────────────────┐
 │ Intent Classification Model │
 └───────┬────────────────────┘
         ↓
+
+        
 ┌────────────────────────────────────────┐
 │         Registered ADK Tools           │
 │ (Billing Lookup, FAQ Replies, Routing) │
 └───────┬────────────────────────────────┘
         ↓
+
+        
 ┌────────────────┐
 │  Final Reply   │
 └────────────────┘
